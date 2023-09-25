@@ -21,7 +21,6 @@ There had been many previous studies that discussed smoke detection, there are q
 
 Methodology-
 The tools and materials we use in designing a CO2 level detector in a smoke-free room consist of hardware and software, including:
-
  Hardware-
 The hardware used includes: 
 a. A computer with a minimum specification of Dual Core Ram 2Gb works as a place to run Arduino Applications.
@@ -31,7 +30,6 @@ c. 16x2 LCD as a tool to display the result of reading the percentage value of C
 e. Relay as regulator On/Off Cooling Fan.
  f. MQ2 sensor as a CO . gas detection sensor.
  g. Power Supply 9 V as a microcontroller and relay power supply .
- 
 Software- 
 The software used in this research are:
  a. Windows 7 Ultimate 32 Bit: The operating system used to run all the software on the computer.
